@@ -11,3 +11,5 @@ all of its content is presented in a warm, soft pink visual theme
 Personalized version with familiar visuals and gameplay offers many fully customizable new resources and sceneries
 
 the game is here for free download and safe installation
+
+[<img src="https://github.com/kmanveer/gacha-nox/blob/main/gocha%20nox.jpg"/>]
